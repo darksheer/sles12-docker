@@ -14,6 +14,7 @@ RUN zypper -n in vim \
 		 mariadb \
 		 mariadb-client \
 		 python \
+		 python3 \
 		 perl \
 		 ruby
 RUN zypper -n up
