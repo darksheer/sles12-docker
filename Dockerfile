@@ -8,6 +8,7 @@ RUN zypper -n in vim \
 		 tar \
 		 make \
 		 gcc \
+		 gcc-c++ \
 		 git-core \
 		 apache2 \
 		 apache2-mod_security2 \
